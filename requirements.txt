@@ -1,0 +1,12 @@
+backpack
+blinker
+cleo
+inflection
+Faker
+lazy-object-proxy
+pendulum
+pyaml
+Pygments
+simplejson
+six
+wrapt
